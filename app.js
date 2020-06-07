@@ -371,5 +371,40 @@
 //        case '%':
 //        document.write(n1+n2);
 //        break;
+//        default:
+ //       document.write("invalid")
+
+ //       break;
 // }
+
+//  var x = prompt()
+//  if (x > 0)
+//  {
+//      document.write('Positive')
+//  }
+
+//  if (x < 0)
+//  {
+//      document.write('Negative')
+//  }
+
+//  if (x = 0)
+//  {
+//      document.write('Zero')
+//  }
+
+//  var x = a
+//  if (x === a || x === e|| x === i|| x === o|| x === u)
+//  {
+//      document.write('Vowel')
+//  }
+
+// else
+//  {
+//      document.write('Non Vowel')
+//  }
+
+
+
+
 
